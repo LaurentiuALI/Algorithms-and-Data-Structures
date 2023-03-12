@@ -50,7 +50,7 @@ A repository containing different implementation of Algorithms and Data Structur
 :heavy_check_mark: Dijkstra's shortest path for undirected graphs;\
 :heavy_check_mark: Ford Fulkerson Max-Flow Algorithm using BFS;\
 
-Made with :heart: by <a href="https://github.com/LaurentiuALI" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/LaurentiuALI" target="_blank">LaurentiuALI</a>
 
 &#xa0;
 
